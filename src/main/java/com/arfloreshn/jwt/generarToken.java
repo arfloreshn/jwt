@@ -19,6 +19,7 @@ import javax.crypto.SecretKey;
  *
  * @author AllanRamiro
  * Fecha creacion: 06/12/2020
+ * Comentario: Pruebas de Brach con Git
  */
 public class generarToken {
 
