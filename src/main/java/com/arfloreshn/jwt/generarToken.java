@@ -18,6 +18,7 @@ import javax.crypto.SecretKey;
 /**
  *
  * @author AllanRamiro
+ * Fecha creacion: 06/12/2020
  */
 public class generarToken {
 
